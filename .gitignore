@@ -12,4 +12,6 @@ icmptunnel
 
 cmake-build-debug
 cmake-build-release-archlinux
+cmake-build-debug-archlinux
 .idea
+cmake-build*
