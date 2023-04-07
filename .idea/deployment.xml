@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ArchLinux (6c615be7-98c2-4df6-b300-d69d83f5712c)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.hm4wI0m05L" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-archlinux" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-archlinux" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-archlinux" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-release-archlinux" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
